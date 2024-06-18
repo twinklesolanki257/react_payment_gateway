@@ -1,0 +1,587 @@
+{
+  "Customers": [
+    {
+      "id": 1,
+      "name": "Twinkle",
+      "email": "twinkle@gmail.com",
+      "password": "123"
+    },
+    {
+      "name": "demo1",
+      "email": "demo1@gmail.com",
+      "password": "111",
+      "id": 2
+    },
+    {
+      "name": "firts",
+      "number": "098765432",
+      "email": "first123@gmail.com",
+      "password": "111",
+      "id": 3
+    }
+  ],
+  "adminuser": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123"
+    }
+  ],
+  "query": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "comment": "we are about to join"
+    },
+    {
+      "name": "Twinkle Solanki",
+      "email": "solankitwinkle257@gmail.com",
+      "comment": "fix an appointment",
+      "id": 2
+    },
+    {
+      "name": "demo21",
+      "email": "demo21@gmail.com",
+      "comment": "new comment",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "name": "toy2",
+      "image": "../toy img/pikachu.png",
+      "price": 549
+    },
+    {
+      "id": 3,
+      "name": "toy3",
+      "image": "../toy img/batman.jpg",
+      "price": 499
+    },
+    {
+      "id": 4,
+      "name": "toy4",
+      "image": "../toy img/batman.jpg",
+      "price": 1199
+    },
+    {
+      "id": 5,
+      "name": "toy5",
+      "image": "../toy img/batman.jpg",
+      "price": 1599
+    },
+    {
+      "id": 6,
+      "name": "toy6",
+      "image": "../toy img/batman.jpg",
+      "price": 299
+    },
+    {
+      "id": 7,
+      "name": "Fjallraven ",
+      "price": 109.95,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Mens ",
+      "price": 22.3,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Mens ",
+      "price": 55.99,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Mens ",
+      "price": 15.99,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 11,
+      "name": "John Har",
+      "price": 695,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Solid Gold ",
+      "price": 168,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 13,
+      "name": "White Gol",
+      "price": 9.99,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Pierced Owl ",
+      "price": 10.99,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 15,
+      "name": "WD 2TB ",
+      "price": 64,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 16,
+      "name": "SanDisk SSD ",
+      "price": 109,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Silicon Power",
+      "price": 109,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 18,
+      "name": "WD 4TB ",
+      "price": 114,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Acer SB220Q ",
+      "price": 599,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Samsung 49-Inch",
+      "price": 999.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 21,
+      "name": "BIYLACLESEN",
+      "price": 56.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 22,
+      "name": "Lock and ",
+      "price": 29.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 23,
+      "name": "Rain Jacket s",
+      "price": 39.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 24,
+      "name": "MBJ Women",
+      "price": 9.85,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 25,
+      "name": "Opnae",
+      "price": 7.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 26,
+      "name": "DANVOUY Women",
+      "price": 12.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 27,
+      "name": "BIYLACLESEN",
+      "price": 56.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 28,
+      "name": "Lock and",
+      "price": 29.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 29,
+      "name": "Rain Ja",
+      "price": 39.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 30,
+      "name": " Boat Neck V",
+      "price": 9.85,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 31,
+      "name": "Sleeve Moisture",
+      "price": 7.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 32,
+      "name": "BIYLACLESEN Women",
+      "price": 56.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 33,
+      "name": "Lock a",
+      "price": 29.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 34,
+      "name": "Rain Jac",
+      "price": 39.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 35,
+      "name": "MBJ Wom",
+      "price": 9.85,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 36,
+      "name": "Opna Wo",
+      "price": 7.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 37,
+      "name": "B Winter Coats",
+      "price": 56.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 38,
+      "name": "Lock Leet",
+      "price": 29.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 39,
+      "name": "Rain Jackincoats",
+      "price": 39.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 40,
+      "name": "BIter Coats",
+      "price": 56.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 41,
+      "name": "Loto Biker Jacket",
+      "price": 29.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 42,
+      "name": "Raints",
+      "price": 39.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 43,
+      "name": "MBJ V",
+      "price": 9.85,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 44,
+      "name": "toy1",
+      "image": "../toy img/nerf.webp",
+      "price": 249
+    },
+    {
+      "id": 45,
+      "name": "toy2",
+      "image": "../toy img/pikachu.png",
+      "price": 549
+    },
+    {
+      "id": 46,
+      "name": "toy3",
+      "image": "../toy img/batman.jpg",
+      "price": 499
+    },
+    {
+      "id": 47,
+      "name": "toy4",
+      "image": "../toy img/batman.jpg",
+      "price": 1199
+    },
+    {
+      "id": 48,
+      "name": "toy5",
+      "image": "../toy img/batman.jpg",
+      "price": 1599
+    },
+    {
+      "id": 49,
+      "name": "toy6",
+      "image": "../toy img/batman.jpg",
+      "price": 299
+    },
+    {
+      "id": 50,
+      "name": "Fjallraven ",
+      "price": 109.95,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Mens ",
+      "price": 22.3,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 52,
+      "name": "Mens ",
+      "price": 55.99,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Mens ",
+      "price": 15.99,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 54,
+      "name": "John Har",
+      "price": 695,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 55,
+      "name": "Solid Gold ",
+      "price": 168,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 56,
+      "name": "White Gol",
+      "price": 9.99,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 57,
+      "name": "Pierced Owl ",
+      "price": 10.99,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 58,
+      "name": "WD 2TB ",
+      "price": 64,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 59,
+      "name": "SanDisk SSD ",
+      "price": 109,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 60,
+      "name": "Silicon Power",
+      "price": 109,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 61,
+      "name": "WD 4TB ",
+      "price": 114,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 62,
+      "name": "Acer SB220Q ",
+      "price": 599,
+      "image": "../toy img/batman.jpg"
+    },
+    {
+      "id": 63,
+      "name": "Samsung 49-Inch",
+      "price": 999.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 64,
+      "name": "BIYLACLESEN",
+      "price": 56.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 65,
+      "name": "Lock and ",
+      "price": 29.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 66,
+      "name": "Rain Jacket s",
+      "price": 39.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 67,
+      "name": "MBJ Women",
+      "price": 9.85,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 68,
+      "name": "Opnae",
+      "price": 7.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 69,
+      "name": "DANVOUY Women",
+      "price": 12.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 70,
+      "name": "BIYLACLESEN",
+      "price": 56.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 71,
+      "name": "Lock and",
+      "price": 29.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 72,
+      "name": "Rain Ja",
+      "price": 39.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 73,
+      "name": " Boat Neck V",
+      "price": 9.85,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 74,
+      "name": "Sleeve Moisture",
+      "price": 7.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 75,
+      "name": "BIYLACLESEN Women",
+      "price": 56.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 76,
+      "name": "Lock a",
+      "price": 29.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 77,
+      "name": "Rain Jac",
+      "price": 39.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 78,
+      "name": "MBJ Wom",
+      "price": 9.85,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 79,
+      "name": "Opna Wo",
+      "price": 7.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 80,
+      "name": "B Winter Coats",
+      "price": 56.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 81,
+      "name": "Lock Leet",
+      "price": 29.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 82,
+      "name": "Rain Jackincoats",
+      "price": 39.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 83,
+      "name": "BIter Coats",
+      "price": 56.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 84,
+      "name": "Loto Biker Jacket",
+      "price": 29.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 85,
+      "name": "Raints",
+      "price": 39.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 86,
+      "name": "MBJ V",
+      "price": 9.85,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 87,
+      "name": "BIter Coats",
+      "price": 56.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 88,
+      "name": "Loto Biker Jacket",
+      "price": 29.95,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 89,
+      "name": "Raints",
+      "price": 39.99,
+      "image": "../toy img/pikachu.png"
+    },
+    {
+      "id": 90,
+      "name": "MBJ V",
+      "price": 9.85,
+      "image": "../toy img/pikachu.png"
+    }
+  ]
+}
